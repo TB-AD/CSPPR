@@ -1,6 +1,3 @@
-# CSPPR
-Critical Scenario Prediction Planning and Reasoning (CSPPR)
-
 <br />
 <div align="center">
   <a href="">
@@ -10,7 +7,7 @@ Critical Scenario Prediction Planning and Reasoning (CSPPR)
   <h3 align="center"></h3>
 
   <p align="center">
-    TB-Bench: Training and Testing Multi-Modal AI for Understanding Spatio-Temporal Traffic Behaviors from Dashcam Images/Videos
+    Critical Scenario Prediction Planning and Reasoning
     <br />
     <a href=""><strong>Paper</strong></a> <strong>|</strong>
     <a href=""><strong>Benchmark Dataset</strong></a> <strong>|</strong>
